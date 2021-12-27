@@ -16,7 +16,7 @@ from PIL import Image
 # "sample_image.png" to "InputImage.png" to generate your image
 # for part 3, the written section
 
-SAMPLE_IMAGE_PATH = "sample_image.png"
+SAMPLE_IMAGE_PATH = "sample_image.png" # change this to img we want
 
 # --------------------- END TODO ---------------------------
 
